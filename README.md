@@ -1,4 +1,4 @@
-## 👋 Hi, Maasumiyaat here,
+## 👋 Hi,
 
 I’m a Software Engineer who loves building systems that are fast, scalable, and reliable. Backend engineering is where I feel most at home — designing APIs, working with databases, architecting services, digging into communication protocols, and tuning performance. I enjoy jumping into the frontend world too, because seeing the full picture always matters.
 
