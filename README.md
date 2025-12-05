@@ -48,5 +48,3 @@ VS Code, Neovim, PyCharm, macOS, Ubuntu, Windows, WSL
 
 If you’re building something exciting — I’d love to be a part of it!
 Let’s connect and create something impactful. 🚀
-
----
